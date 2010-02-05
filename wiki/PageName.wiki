@@ -1,0 +1,8 @@
+#summary Welcome to the jquery sticky notes wiki
+
+= Introduction =
+
+This wiki is not used, if you have any question please use the [http://groups.google.com/group/jquery-sticky-notes mailing list]  
+
+
+You find a documentation of this plugin on our [http://www.jquery-sticky-notes.com project homepage] 
